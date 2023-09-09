@@ -57,11 +57,9 @@
 * Upcoming offers
 
 ## WEB PORTAL DESIGN
-<img width="1512" alt="image" src="https://github.com/sahilfaizal01/E-Commerce-ChatBot/assets/106440078/6212965c-2c51-4515-b643-fd6f23b60b3a">
-
-<img width="1512" alt="image" src="https://github.com/sahilfaizal01/E-Commerce-ChatBot/assets/106440078/ca973984-4d7a-45e0-8902-1830ba3ce68f">
-
-<img width="1512" alt="image" src="https://github.com/sahilfaizal01/E-Commerce-ChatBot/assets/106440078/83860066-637c-434a-9517-c7715d230f6c">
+<img width="1512" alt="image" src="keralaEats-UI.png">
+<img width="1512" alt="image" src="ui-1.png">
+<img width="1512" alt="image" src="ui-2.png">
 
 ## CHATBOT WORKING
 ### Starting the conversation
