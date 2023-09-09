@@ -2,7 +2,17 @@
 #### (Project Management - JIRA, Asna, Notion)
 #### Chatbot Platforms - Dialogflow, RASA, Amazon Lex
 ## IMPORTANCE OF CHATBOT IN E-Commerce
+* <b>Enhanced Customer Service:</b> Chatbots can provide immediate responses to customer inquiries, helping users with menu choices, order status, and FAQs. This improves customer satisfaction and loyalty.
 
+* <b>24/7 Availability:</b> Chatbots are available round the clock, allowing customers to place orders and get assistance at any time, even outside of business hours.
+
+* <b>Efficiency:</b> Chatbots streamline the ordering process by guiding users through menu options and taking orders swiftly. This can reduce human errors and enhance order accuracy.
+
+* <b>Cost Savings:</b> Chatbots can handle multiple inquiries simultaneously, reducing the need for extensive customer support staff. This can result in cost savings for 'KeralaEats'.
+
+* <b>Personalization:</b> Chatbots can analyze customer preferences and provide personalized recommendations, increasing the chances of upselling and cross-selling.
+
+* <b>Data Insights:</b> Chatbots collect valuable customer data that can be used for marketing strategies and improving the overall user experience. This data can help 'KeralaEats' understand customer preferences and behaviors.
 ## WHY DIALOGFLOW?
 * <b>Natural Language Processing (NLP):</b> Dialogflow's NLP capabilities allow chatbots to understand and respond to user input in a conversational and human-like manner. It can recognize entities, intents, and contexts, making it easier to build interactive and context-aware chatbots.
 
