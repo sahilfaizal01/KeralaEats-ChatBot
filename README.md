@@ -58,8 +58,8 @@
 
 ## WEB PORTAL DESIGN
 <img width="1512" alt="image" src="keralaEats-UI.png">
-<img width="1512" alt="image" src="ui-1.png">
 <img width="1512" alt="image" src="ui-2.png">
+<img width="1512" alt="image" src="ui-3.png">
 
 ## CHATBOT WORKING
 ### Starting the conversation
